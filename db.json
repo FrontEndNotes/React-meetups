@@ -1,0 +1,25 @@
+{
+  "meetups": [
+    {
+      "id": "m1",
+      "title": "This is a first meetup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "Meetupstreet 5, 12345 Meetup City",
+      "description": "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!"
+    },
+    {
+      "title": "Meetup in Tirana",
+      "image": "https://sofiaadventures.com/wp-content/uploads/2019/10/shutterstock_527383381.jpg",
+      "address": "Tirana",
+      "description": "Albania React User Group is for anyone interested in the React ecosystem such as React.js, React Native, Redux, GraphQL, Webpack ... and more. It is an open group for people who want to learn more about React Native, discuss new features, new tools, present examples, and their solutions. Our aim is to have an open and dynamic community around ReactJs to discuss the latest React news and share real-life experiences.",
+      "id": "0kjdFNO"
+    },
+    {
+      "id": "m2",
+      "title": "This is a second meetup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "Meetupstreet 5, 12345 Meetup City",
+      "description": "This is a second, amazing meetup which you definitely should not miss. It will be a lot of fun!"
+    }
+  ]
+}
